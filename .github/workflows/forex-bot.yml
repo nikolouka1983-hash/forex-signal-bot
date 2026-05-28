@@ -45,7 +45,7 @@ jobs:
       - name: Scan for new signals
         run: python3 forex_bot.py scan
 
-      # Commit updated DB and last 1000 log lines back to repo
+      # Commit first, then pull --rebase, then push
       - name: Persist state
         run: |
           cp $HOME/Desktop/forex_bot.db forex_bot.db 2>/dev/null || true
@@ -58,7 +58,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No state changes to commit"
           else
-            git pull --rebase origin main
             git commit -m "bot: run $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           fi
