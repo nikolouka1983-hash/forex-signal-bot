@@ -1,15 +1,22 @@
-[2026-05-29 16:08:18] [INFO] No open positions to check.
-[2026-05-29 16:08:18] [INFO] SCAN MODE
-[2026-05-29 16:08:18] [INFO] ──────────────────────────────────────────────────
-[2026-05-29 16:08:18] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-05-29 16:08:18] [INFO]   Fetching EURUSD...
-[2026-05-29 16:08:20] [INFO]   Fetching GBPUSD...
-[2026-05-29 16:08:20] [WARN] Price fetch failed for GBPUSD M15: Expecting value: line 1 column 1 (char 0)
-[2026-05-29 16:08:21] [INFO]   Fetching XAUUSD...
-[2026-05-29 16:08:22] [INFO]   Fetching USDJPY...
-[2026-05-29 16:08:23] [INFO] 
-Signals found: 1
-[2026-05-29 16:08:23] [INFO] 
-  ▶ S2_mean_rev     EURUSD   SELL @ 1.16809
-[2026-05-29 16:08:23] [INFO]     SL:8p | TP1:22p | TP2:49p | TP3:52p | RR:2.7:1 | Conf:75%
-[2026-05-29 16:08:23] [INFO]     RSI 85 | BB 91%
+[2026-05-29 18:42:51] [INFO] No open positions to check.
+[2026-05-29 18:42:51] [INFO] SCAN MODE
+[2026-05-29 18:42:51] [INFO] ──────────────────────────────────────────────────
+[2026-05-29 18:42:51] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-05-29 18:42:51] [INFO]   Fetching EURUSD...
+[2026-05-29 18:42:52] [INFO]   Fetching GBPUSD...
+[2026-05-29 18:42:54] [INFO]   Fetching XAUUSD...
+[2026-05-29 18:42:55] [INFO]   Fetching USDJPY...
+[2026-05-29 18:42:56] [INFO] 
+Signals found: 3
+[2026-05-29 18:42:56] [INFO] 
+  ▶ S5_momentum     EURUSD   BUY  @ 1.16700
+[2026-05-29 18:42:56] [INFO]     SL:6p | TP1:12p | TP2:23p | TP3:35p | RR:1.8:1 | Conf:73%
+[2026-05-29 18:42:56] [INFO]     H1 body 75% | EMA dist 3.0p
+[2026-05-29 18:42:56] [INFO] 
+  ▶ S5_momentum     GBPUSD   BUY  @ 1.34620
+[2026-05-29 18:42:56] [INFO]     SL:6p | TP1:14p | TP2:28p | TP3:43p | RR:2.5:1 | Conf:73%
+[2026-05-29 18:42:56] [INFO]     H1 body 85% | EMA dist 3.5p
+[2026-05-29 18:42:56] [INFO] 
+  ▶ S5_momentum     XAUUSD   BUY  @ 4591.29980
+[2026-05-29 18:42:56] [INFO]     SL:895p | TP1:2023p | TP2:4046p | TP3:6069p | RR:2.3:1 | Conf:73%
+[2026-05-29 18:42:56] [INFO]     H1 body 82% | EMA dist 437.8p
