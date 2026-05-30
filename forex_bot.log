@@ -1,14 +1,12 @@
-[2026-05-30 07:24:04] [INFO] No open positions to check.
-[2026-05-30 07:24:04] [INFO] SCAN MODE
-[2026-05-30 07:24:04] [INFO] ──────────────────────────────────────────────────
-[2026-05-30 07:24:04] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-05-30 07:24:04] [INFO]   Fetching EURUSD...
-[2026-05-30 07:24:06] [INFO]   Fetching GBPUSD...
-[2026-05-30 07:24:06] [INFO]   Fetching XAUUSD...
-[2026-05-30 07:24:08] [INFO]   Fetching EURJPY...
-[2026-05-30 07:24:09] [INFO] 
-Signals found: 1
-[2026-05-30 07:24:09] [INFO] 
-  ▶ S5_momentum     EURJPY   SELL @ 185.70900
-[2026-05-30 07:24:09] [INFO]     SL:8p | TP1:16p | TP2:31p | TP3:47p | RR:1.9:1 | Conf:73%
-[2026-05-30 07:24:09] [INFO]     H1 body 76% | EMA dist 2.6p
+[2026-05-30 09:30:44] [INFO] No open positions to check.
+[2026-05-30 09:30:44] [INFO] SCAN MODE
+[2026-05-30 09:30:44] [INFO] ──────────────────────────────────────────────────
+[2026-05-30 09:30:44] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-05-30 09:30:44] [INFO]   Fetching EURUSD...
+[2026-05-30 09:30:46] [INFO]   Fetching GBPUSD...
+[2026-05-30 09:30:47] [INFO]   Fetching XAUUSD...
+[2026-05-30 09:30:49] [INFO]   Fetching EURJPY...
+[2026-05-30 09:30:51] [INFO]   Skipping duplicate EURJPY SELL (S5_momentum) — already signalled in last 4h
+[2026-05-30 09:30:51] [INFO] 
+Signals found: 0
+[2026-05-30 09:30:51] [INFO] No signals this scan — market conditions not met
