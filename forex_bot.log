@@ -1,14 +1,23 @@
-[2026-06-05 10:38:00] [INFO] No open positions to check.
-[2026-06-05 10:38:00] [INFO] SCAN MODE
-[2026-06-05 10:38:00] [INFO] ──────────────────────────────────────────────────
-[2026-06-05 10:38:00] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-06-05 10:38:00] [INFO]   Fetching EURUSD...
-[2026-06-05 10:38:02] [INFO]   Fetching GBPUSD...
-[2026-06-05 10:38:03] [INFO]   Fetching XAUUSD...
-[2026-06-05 10:38:04] [INFO]   Fetching EURJPY...
-[2026-06-05 10:38:06] [INFO] 
-Signals found: 1
-[2026-06-05 10:38:06] [INFO] 
-  ▶ S2_mean_rev     GBPUSD   SELL @ 1.34775
-[2026-06-05 10:38:06] [INFO]     SL:11p | TP1:24p | TP2:55p | TP3:58p | RR:2.2:1 | Conf:75%
-[2026-06-05 10:38:06] [INFO]     RSI 90 | BB 87%
+[2026-06-05 13:43:13] [INFO] No open positions to check.
+[2026-06-05 13:43:13] [INFO] SCAN MODE
+[2026-06-05 13:43:13] [INFO] ──────────────────────────────────────────────────
+[2026-06-05 13:43:13] [INFO] Session: OVERLAP | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY, EURJPY
+[2026-06-05 13:43:13] [INFO]   Fetching EURUSD...
+[2026-06-05 13:43:15] [INFO]   Fetching GBPUSD...
+[2026-06-05 13:43:17] [INFO]   Fetching XAUUSD...
+[2026-06-05 13:43:18] [INFO]   Fetching USDJPY...
+[2026-06-05 13:43:19] [INFO]   Fetching EURJPY...
+[2026-06-05 13:43:22] [INFO] 
+Signals found: 3
+[2026-06-05 13:43:22] [INFO] 
+  ▶ S2_mean_rev     EURUSD   BUY  @ 1.15808
+[2026-06-05 13:43:22] [INFO]     SL:5p | TP1:47p | TP2:94p | TP3:99p | RR:8.8:1 | Conf:75%
+[2026-06-05 13:43:22] [INFO]     RSI 18 | BB 1%
+[2026-06-05 13:43:22] [INFO] 
+  ▶ S2_mean_rev     GBPUSD   BUY  @ 1.33955
+[2026-06-05 13:43:22] [INFO]     SL:7p | TP1:55p | TP2:112p | TP3:117p | RR:8.0:1 | Conf:75%
+[2026-06-05 13:43:22] [INFO]     RSI 11 | BB 2%
+[2026-06-05 13:43:22] [INFO] 
+  ▶ S2_mean_rev     EURJPY   BUY  @ 185.44800
+[2026-06-05 13:43:22] [INFO]     SL:9p | TP1:50p | TP2:102p | TP3:109p | RR:5.4:1 | Conf:75%
+[2026-06-05 13:43:22] [INFO]     RSI 12 | BB 2%
