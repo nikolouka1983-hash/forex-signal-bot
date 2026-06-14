@@ -1,12 +1,14 @@
-[2026-06-14 19:56:20] [INFO] No open positions to check.
-[2026-06-14 19:56:20] [INFO] SCAN MODE
-[2026-06-14 19:56:20] [INFO] ──────────────────────────────────────────────────
-[2026-06-14 19:56:20] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-06-14 19:56:20] [INFO]   Fetching EURUSD...
-[2026-06-14 19:56:22] [INFO]   Fetching GBPUSD...
-[2026-06-14 19:56:23] [INFO]   Fetching XAUUSD...
-[2026-06-14 19:56:24] [INFO]   Skipping duplicate XAUUSD BUY (S5_momentum) — already signalled in last 4h
-[2026-06-14 19:56:24] [INFO]   Fetching USDJPY...
-[2026-06-14 19:56:25] [INFO] 
-Signals found: 0
-[2026-06-14 19:56:25] [INFO] No signals this scan — market conditions not met
+[2026-06-14 21:22:43] [INFO] No open positions to check.
+[2026-06-14 21:22:43] [INFO] SCAN MODE
+[2026-06-14 21:22:43] [INFO] ──────────────────────────────────────────────────
+[2026-06-14 21:22:43] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-06-14 21:22:43] [INFO]   Fetching EURUSD...
+[2026-06-14 21:22:44] [INFO]   Fetching GBPUSD...
+[2026-06-14 21:22:46] [INFO]   Fetching XAUUSD...
+[2026-06-14 21:22:47] [INFO]   Fetching USDJPY...
+[2026-06-14 21:22:48] [INFO] 
+Signals found: 1
+[2026-06-14 21:22:48] [INFO] 
+  ▶ S5_momentum     XAUUSD   BUY  @ 4238.79980
+[2026-06-14 21:22:48] [INFO]     SL:934p | TP1:2119p | TP2:4239p | TP3:6358p | RR:2.3:1 | Conf:73%
+[2026-06-14 21:22:48] [INFO]     H1 body 73% | EMA dist 323.5p
