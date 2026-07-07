@@ -1,18 +1,15 @@
-[2026-07-07 11:15:39] [INFO] No open positions to check.
-[2026-07-07 11:15:39] [INFO] SCAN MODE
-[2026-07-07 11:15:39] [INFO] ──────────────────────────────────────────────────
-[2026-07-07 11:15:39] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-07-07 11:15:39] [INFO]   Fetching EURUSD...
-[2026-07-07 11:15:40] [INFO]   Fetching GBPUSD...
-[2026-07-07 11:15:42] [INFO]   Fetching XAUUSD...
-[2026-07-07 11:15:43] [INFO]   Fetching EURJPY...
-[2026-07-07 11:15:45] [INFO] 
-Signals found: 2
-[2026-07-07 11:15:45] [INFO] 
-  ▶ S5_momentum     XAUUSD   SELL @ 4145.10010
-[2026-07-07 11:15:45] [INFO]     SL:619p | TP1:1245p | TP2:2490p | TP3:3735p | RR:2.0:1 | Conf:73%
-[2026-07-07 11:15:45] [INFO]     H1 body 85% | EMA dist 143.3p
-[2026-07-07 11:15:45] [INFO] 
-  ▶ S5_momentum     EURJPY   SELL @ 185.09599
-[2026-07-07 11:15:45] [INFO]     SL:10p | TP1:17p | TP2:34p | TP3:50p | RR:1.6:1 | Conf:73%
-[2026-07-07 11:15:45] [INFO]     H1 body 68% | EMA dist 2.1p
+[2026-07-07 13:29:41] [INFO] No open positions to check.
+[2026-07-07 13:29:41] [INFO] SCAN MODE
+[2026-07-07 13:29:41] [INFO] ──────────────────────────────────────────────────
+[2026-07-07 13:29:41] [INFO] Session: OVERLAP | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY, EURJPY
+[2026-07-07 13:29:41] [INFO]   Fetching EURUSD...
+[2026-07-07 13:29:42] [INFO]   Fetching GBPUSD...
+[2026-07-07 13:29:43] [INFO]   Fetching XAUUSD...
+[2026-07-07 13:29:44] [INFO]   Fetching USDJPY...
+[2026-07-07 13:29:46] [INFO]   Fetching EURJPY...
+[2026-07-07 13:29:47] [INFO] 
+Signals found: 1
+[2026-07-07 13:29:47] [INFO] 
+  ▶ S5_momentum     USDJPY   BUY  @ 161.88200
+[2026-07-07 13:29:47] [INFO]     SL:9p | TP1:18p | TP2:36p | TP3:54p | RR:2.0:1 | Conf:73%
+[2026-07-07 13:29:47] [INFO]     H1 body 70% | EMA dist 0.3p
