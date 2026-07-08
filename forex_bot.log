@@ -1,12 +1,9 @@
-[2026-07-08 00:11:10] [INFO] No open positions to check.
-[2026-07-08 00:11:10] [INFO] SCAN MODE
-[2026-07-08 00:11:10] [INFO] ──────────────────────────────────────────────────
-[2026-07-08 00:11:10] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-07-08 00:11:10] [INFO]   Fetching USDJPY...
-[2026-07-08 00:11:12] [INFO]   Fetching XAUUSD...
-[2026-07-08 00:11:13] [INFO] 
-Signals found: 1
-[2026-07-08 00:11:13] [INFO] 
-  ▶ S2_mean_rev     USDJPY   SELL @ 162.34300
-[2026-07-08 00:11:13] [INFO]     SL:7p | TP1:17p | TP2:38p | TP3:42p | RR:2.5:1 | Conf:70%
-[2026-07-08 00:11:13] [INFO]     RSI 76 | BB 92%
+[2026-07-08 03:50:32] [INFO] No open positions to check.
+[2026-07-08 03:50:32] [INFO] SCAN MODE
+[2026-07-08 03:50:32] [INFO] ──────────────────────────────────────────────────
+[2026-07-08 03:50:32] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
+[2026-07-08 03:50:32] [INFO]   Fetching USDJPY...
+[2026-07-08 03:50:33] [INFO]   Fetching XAUUSD...
+[2026-07-08 03:50:35] [INFO] 
+Signals found: 0
+[2026-07-08 03:50:35] [INFO] No signals this scan — market conditions not met
