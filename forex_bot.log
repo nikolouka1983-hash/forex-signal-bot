@@ -1,11 +1,18 @@
-[2026-07-09 16:16:23] [INFO] No open positions to check.
-[2026-07-09 16:16:23] [INFO] SCAN MODE
-[2026-07-09 16:16:23] [INFO] ──────────────────────────────────────────────────
-[2026-07-09 16:16:23] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-07-09 16:16:23] [INFO]   Fetching EURUSD...
-[2026-07-09 16:16:25] [INFO]   Fetching GBPUSD...
-[2026-07-09 16:16:26] [INFO]   Fetching XAUUSD...
-[2026-07-09 16:16:28] [INFO]   Fetching USDJPY...
-[2026-07-09 16:16:29] [INFO] 
-Signals found: 0
-[2026-07-09 16:16:29] [INFO] No signals this scan — market conditions not met
+[2026-07-09 18:14:13] [INFO] No open positions to check.
+[2026-07-09 18:14:13] [INFO] SCAN MODE
+[2026-07-09 18:14:13] [INFO] ──────────────────────────────────────────────────
+[2026-07-09 18:14:13] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-07-09 18:14:13] [INFO]   Fetching EURUSD...
+[2026-07-09 18:14:15] [INFO]   Fetching GBPUSD...
+[2026-07-09 18:14:16] [INFO]   Fetching XAUUSD...
+[2026-07-09 18:14:17] [INFO]   Fetching USDJPY...
+[2026-07-09 18:14:18] [INFO] 
+Signals found: 2
+[2026-07-09 18:14:18] [INFO] 
+  ▶ S2_mean_rev     GBPUSD   SELL @ 1.34187
+[2026-07-09 18:14:18] [INFO]     SL:6p | TP1:12p | TP2:28p | TP3:30p | RR:2.2:1 | Conf:75%
+[2026-07-09 18:14:18] [INFO]     RSI 81 | BB 89%
+[2026-07-09 18:14:18] [INFO] 
+  ▶ S5_momentum     USDJPY   BUY  @ 162.31100
+[2026-07-09 18:14:18] [INFO]     SL:6p | TP1:10p | TP2:19p | TP3:29p | RR:1.5:1 | Conf:73%
+[2026-07-09 18:14:18] [INFO]     H1 body 75% | EMA dist 1.6p
