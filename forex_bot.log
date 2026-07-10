@@ -1,11 +1,7 @@
-[2026-07-10 20:56:31] [INFO] No open positions to check.
-[2026-07-10 20:56:31] [INFO] SCAN MODE
-[2026-07-10 20:56:31] [INFO] ──────────────────────────────────────────────────
-[2026-07-10 20:56:31] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-07-10 20:56:31] [INFO]   Fetching EURUSD...
-[2026-07-10 20:56:33] [INFO]   Fetching GBPUSD...
-[2026-07-10 20:56:35] [INFO]   Fetching XAUUSD...
-[2026-07-10 20:56:36] [INFO]   Fetching USDJPY...
-[2026-07-10 20:56:38] [INFO] 
+[2026-07-10 22:12:02] [INFO] No open positions to check.
+[2026-07-10 22:12:02] [INFO] SCAN MODE
+[2026-07-10 22:12:02] [INFO] ──────────────────────────────────────────────────
+[2026-07-10 22:12:02] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-07-10 22:12:02] [INFO] 
 Signals found: 0
-[2026-07-10 20:56:38] [INFO] No signals this scan — market conditions not met
+[2026-07-10 22:12:02] [INFO] No signals this scan — market conditions not met
