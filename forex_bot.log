@@ -1,18 +1,11 @@
-[2026-07-14 19:48:27] [INFO] No open positions to check.
-[2026-07-14 19:48:27] [INFO] SCAN MODE
-[2026-07-14 19:48:27] [INFO] ──────────────────────────────────────────────────
-[2026-07-14 19:48:27] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-07-14 19:48:27] [INFO]   Fetching EURUSD...
-[2026-07-14 19:48:29] [INFO]   Fetching GBPUSD...
-[2026-07-14 19:48:31] [INFO]   Fetching XAUUSD...
-[2026-07-14 19:48:32] [INFO]   Fetching USDJPY...
-[2026-07-14 19:48:33] [INFO] 
-Signals found: 2
-[2026-07-14 19:48:33] [INFO] 
-  ▶ S5_momentum     GBPUSD   BUY  @ 1.33914
-[2026-07-14 19:48:33] [INFO]     SL:11p | TP1:18p | TP2:37p | TP3:55p | RR:1.7:1 | Conf:73%
-[2026-07-14 19:48:33] [INFO]     H1 body 83% | EMA dist 4.5p
-[2026-07-14 19:48:33] [INFO] 
-  ▶ S5_momentum     USDJPY   SELL @ 162.14301
-[2026-07-14 19:48:33] [INFO]     SL:10p | TP1:18p | TP2:36p | TP3:54p | RR:1.9:1 | Conf:73%
-[2026-07-14 19:48:33] [INFO]     H1 body 68% | EMA dist 0.0p
+[2026-07-14 20:48:12] [INFO] No open positions to check.
+[2026-07-14 20:48:12] [INFO] SCAN MODE
+[2026-07-14 20:48:12] [INFO] ──────────────────────────────────────────────────
+[2026-07-14 20:48:12] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-07-14 20:48:12] [INFO]   Fetching EURUSD...
+[2026-07-14 20:48:14] [INFO]   Fetching GBPUSD...
+[2026-07-14 20:48:16] [INFO]   Fetching XAUUSD...
+[2026-07-14 20:48:17] [INFO]   Fetching USDJPY...
+[2026-07-14 20:48:19] [INFO] 
+Signals found: 0
+[2026-07-14 20:48:19] [INFO] No signals this scan — market conditions not met
