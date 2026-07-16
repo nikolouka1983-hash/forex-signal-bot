@@ -1,18 +1,11 @@
-[2026-07-16 16:42:35] [INFO] No open positions to check.
-[2026-07-16 16:42:35] [INFO] SCAN MODE
-[2026-07-16 16:42:35] [INFO] ──────────────────────────────────────────────────
-[2026-07-16 16:42:35] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-07-16 16:42:35] [INFO]   Fetching EURUSD...
-[2026-07-16 16:42:36] [INFO]   Fetching GBPUSD...
-[2026-07-16 16:42:37] [INFO]   Fetching XAUUSD...
-[2026-07-16 16:42:39] [INFO]   Fetching USDJPY...
-[2026-07-16 16:42:41] [INFO] 
-Signals found: 2
-[2026-07-16 16:42:41] [INFO] 
-  ▶ S2_mean_rev     EURUSD   BUY  @ 1.14377
-[2026-07-16 16:42:41] [INFO]     SL:6p | TP1:13p | TP2:30p | TP3:33p | RR:2.2:1 | Conf:75%
-[2026-07-16 16:42:41] [INFO]     RSI 20 | BB 10%
-[2026-07-16 16:42:41] [INFO] 
-  ▶ S2_mean_rev     GBPUSD   BUY  @ 1.34669
-[2026-07-16 16:42:41] [INFO]     SL:7p | TP1:27p | TP2:58p | TP3:61p | RR:3.9:1 | Conf:75%
-[2026-07-16 16:42:41] [INFO]     RSI 15 | BB 6%
+[2026-07-16 17:56:31] [INFO] No open positions to check.
+[2026-07-16 17:56:31] [INFO] SCAN MODE
+[2026-07-16 17:56:31] [INFO] ──────────────────────────────────────────────────
+[2026-07-16 17:56:31] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-07-16 17:56:31] [INFO]   Fetching EURUSD...
+[2026-07-16 17:56:33] [INFO]   Fetching GBPUSD...
+[2026-07-16 17:56:34] [INFO]   Fetching XAUUSD...
+[2026-07-16 17:56:36] [INFO]   Fetching USDJPY...
+[2026-07-16 17:56:37] [INFO] 
+Signals found: 0
+[2026-07-16 17:56:37] [INFO] No signals this scan — market conditions not met
