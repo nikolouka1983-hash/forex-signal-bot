@@ -1,9 +1,14 @@
-[2026-07-18 06:24:24] [INFO] No open positions to check.
-[2026-07-18 06:24:24] [INFO] SCAN MODE
-[2026-07-18 06:24:24] [INFO] ──────────────────────────────────────────────────
-[2026-07-18 06:24:24] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-07-18 06:24:24] [INFO]   Fetching USDJPY...
-[2026-07-18 06:24:25] [INFO]   Fetching XAUUSD...
-[2026-07-18 06:24:26] [INFO] 
-Signals found: 0
-[2026-07-18 06:24:26] [INFO] No signals this scan — market conditions not met
+[2026-07-18 08:21:56] [INFO] No open positions to check.
+[2026-07-18 08:21:56] [INFO] SCAN MODE
+[2026-07-18 08:21:56] [INFO] ──────────────────────────────────────────────────
+[2026-07-18 08:21:56] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-07-18 08:21:56] [INFO]   Fetching EURUSD...
+[2026-07-18 08:21:57] [INFO]   Fetching GBPUSD...
+[2026-07-18 08:21:59] [INFO]   Fetching XAUUSD...
+[2026-07-18 08:22:00] [INFO]   Fetching EURJPY...
+[2026-07-18 08:22:01] [INFO] 
+Signals found: 1
+[2026-07-18 08:22:01] [INFO] 
+  ▶ S5_momentum     GBPUSD   SELL @ 1.34524
+[2026-07-18 08:22:01] [INFO]     SL:6p | TP1:11p | TP2:23p | TP3:34p | RR:1.9:1 | Conf:73%
+[2026-07-18 08:22:01] [INFO]     H1 body 65% | EMA dist 0.8p
