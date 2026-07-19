@@ -1,14 +1,12 @@
-[2026-07-19 07:14:59] [INFO] No open positions to check.
-[2026-07-19 07:14:59] [INFO] SCAN MODE
-[2026-07-19 07:14:59] [INFO] ──────────────────────────────────────────────────
-[2026-07-19 07:14:59] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-07-19 07:14:59] [INFO]   Fetching EURUSD...
-[2026-07-19 07:15:00] [INFO]   Fetching GBPUSD...
-[2026-07-19 07:15:02] [INFO]   Fetching XAUUSD...
-[2026-07-19 07:15:03] [INFO]   Fetching EURJPY...
-[2026-07-19 07:15:05] [INFO] 
-Signals found: 1
-[2026-07-19 07:15:05] [INFO] 
-  ▶ S5_momentum     GBPUSD   SELL @ 1.34524
-[2026-07-19 07:15:05] [INFO]     SL:6p | TP1:11p | TP2:23p | TP3:34p | RR:1.9:1 | Conf:73%
-[2026-07-19 07:15:05] [INFO]     H1 body 65% | EMA dist 0.8p
+[2026-07-19 09:21:59] [INFO] No open positions to check.
+[2026-07-19 09:21:59] [INFO] SCAN MODE
+[2026-07-19 09:21:59] [INFO] ──────────────────────────────────────────────────
+[2026-07-19 09:21:59] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-07-19 09:21:59] [INFO]   Fetching EURUSD...
+[2026-07-19 09:22:01] [INFO]   Fetching GBPUSD...
+[2026-07-19 09:22:02] [INFO]   Skipping duplicate GBPUSD SELL (S5_momentum) — already signalled in last 4h
+[2026-07-19 09:22:02] [INFO]   Fetching XAUUSD...
+[2026-07-19 09:22:03] [INFO]   Fetching EURJPY...
+[2026-07-19 09:22:05] [INFO] 
+Signals found: 0
+[2026-07-19 09:22:05] [INFO] No signals this scan — market conditions not met
