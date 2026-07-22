@@ -1,14 +1,14 @@
-[2026-07-22 18:46:24] [INFO] No open positions to check.
-[2026-07-22 18:46:24] [INFO] SCAN MODE
-[2026-07-22 18:46:24] [INFO] ──────────────────────────────────────────────────
-[2026-07-22 18:46:24] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-07-22 18:46:24] [INFO]   Fetching EURUSD...
-[2026-07-22 18:46:26] [INFO]   Fetching GBPUSD...
-[2026-07-22 18:46:27] [INFO]   Fetching XAUUSD...
-[2026-07-22 18:46:29] [INFO]   Fetching USDJPY...
-[2026-07-22 18:46:31] [INFO] 
+[2026-07-22 20:02:56] [INFO] No open positions to check.
+[2026-07-22 20:02:56] [INFO] SCAN MODE
+[2026-07-22 20:02:56] [INFO] ──────────────────────────────────────────────────
+[2026-07-22 20:02:56] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-07-22 20:02:56] [INFO]   Fetching EURUSD...
+[2026-07-22 20:02:58] [INFO]   Fetching GBPUSD...
+[2026-07-22 20:02:59] [INFO]   Fetching XAUUSD...
+[2026-07-22 20:03:00] [INFO]   Fetching USDJPY...
+[2026-07-22 20:03:02] [INFO] 
 Signals found: 1
-[2026-07-22 18:46:31] [INFO] 
-  ▶ S2_mean_rev     XAUUSD   BUY  @ 4139.89990
-[2026-07-22 18:46:31] [INFO]     SL:542p | TP1:1295p | TP2:2857p | TP3:3132p | RR:2.4:1 | Conf:75%
-[2026-07-22 18:46:31] [INFO]     RSI 17 | BB 9%
+[2026-07-22 20:03:02] [INFO] 
+  ▶ S5_momentum     GBPUSD   BUY  @ 1.33749
+[2026-07-22 20:03:02] [INFO]     SL:5p | TP1:9p | TP2:18p | TP3:27p | RR:1.7:1 | Conf:73%
+[2026-07-22 20:03:02] [INFO]     H1 body 100% | EMA dist 1.2p
