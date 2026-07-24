@@ -1,18 +1,11 @@
-[2026-07-24 07:55:22] [INFO] No open positions to check.
-[2026-07-24 07:55:23] [INFO] SCAN MODE
-[2026-07-24 07:55:23] [INFO] ──────────────────────────────────────────────────
-[2026-07-24 07:55:23] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-07-24 07:55:23] [INFO]   Fetching EURUSD...
-[2026-07-24 07:55:24] [INFO]   Fetching GBPUSD...
-[2026-07-24 07:55:26] [INFO]   Fetching XAUUSD...
-[2026-07-24 07:55:27] [INFO]   Fetching EURJPY...
-[2026-07-24 07:55:29] [INFO] 
-Signals found: 2
-[2026-07-24 07:55:29] [INFO] 
-  ▶ S2_mean_rev     GBPUSD   SELL @ 1.33380
-[2026-07-24 07:55:29] [INFO]     SL:7p | TP1:18p | TP2:39p | TP3:42p | RR:2.7:1 | Conf:70%
-[2026-07-24 07:55:29] [INFO]     RSI 76 | BB 91%
-[2026-07-24 07:55:29] [INFO] 
-  ▶ S2_mean_rev     XAUUSD   SELL @ 4050.10010
-[2026-07-24 07:55:29] [INFO]     SL:666p | TP1:1384p | TP2:3106p | TP3:3433p | RR:2.1:1 | Conf:70%
-[2026-07-24 07:55:29] [INFO]     RSI 77 | BB 90%
+[2026-07-24 10:25:57] [INFO] No open positions to check.
+[2026-07-24 10:25:57] [INFO] SCAN MODE
+[2026-07-24 10:25:57] [INFO] ──────────────────────────────────────────────────
+[2026-07-24 10:25:57] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-07-24 10:25:57] [INFO]   Fetching EURUSD...
+[2026-07-24 10:25:59] [INFO]   Fetching GBPUSD...
+[2026-07-24 10:26:01] [INFO]   Fetching XAUUSD...
+[2026-07-24 10:26:02] [INFO]   Fetching EURJPY...
+[2026-07-24 10:26:04] [INFO] 
+Signals found: 0
+[2026-07-24 10:26:04] [INFO] No signals this scan — market conditions not met
