@@ -1,14 +1,12 @@
-[2026-07-28 07:29:54] [INFO] No open positions to check.
-[2026-07-28 07:29:54] [INFO] SCAN MODE
-[2026-07-28 07:29:54] [INFO] ──────────────────────────────────────────────────
-[2026-07-28 07:29:54] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-07-28 07:29:54] [INFO]   Fetching EURUSD...
-[2026-07-28 07:29:55] [INFO]   Fetching GBPUSD...
-[2026-07-28 07:29:56] [INFO]   Fetching XAUUSD...
-[2026-07-28 07:29:58] [INFO]   Fetching EURJPY...
-[2026-07-28 07:29:59] [INFO] 
-Signals found: 1
-[2026-07-28 07:29:59] [INFO] 
-  ▶ S5_momentum     XAUUSD   BUY  @ 4051.50000
-[2026-07-28 07:29:59] [INFO]     SL:564p | TP1:919p | TP2:1839p | TP3:2758p | RR:1.6:1 | Conf:73%
-[2026-07-28 07:29:59] [INFO]     H1 body 70% | EMA dist 153.2p
+[2026-07-28 10:12:20] [INFO] No open positions to check.
+[2026-07-28 10:12:20] [INFO] SCAN MODE
+[2026-07-28 10:12:20] [INFO] ──────────────────────────────────────────────────
+[2026-07-28 10:12:20] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-07-28 10:12:20] [INFO]   Fetching EURUSD...
+[2026-07-28 10:12:21] [INFO]   Fetching GBPUSD...
+[2026-07-28 10:12:22] [INFO]   Fetching XAUUSD...
+[2026-07-28 10:12:23] [INFO]   Skipping duplicate XAUUSD BUY (S2_mean_rev) — already signalled in last 4h
+[2026-07-28 10:12:23] [INFO]   Fetching EURJPY...
+[2026-07-28 10:12:25] [INFO] 
+Signals found: 0
+[2026-07-28 10:12:25] [INFO] No signals this scan — market conditions not met
