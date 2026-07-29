@@ -1,14 +1,12 @@
-[2026-07-29 17:50:14] [INFO] No open positions to check.
-[2026-07-29 17:50:14] [INFO] SCAN MODE
-[2026-07-29 17:50:14] [INFO] ──────────────────────────────────────────────────
-[2026-07-29 17:50:14] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-07-29 17:50:14] [INFO]   Fetching EURUSD...
-[2026-07-29 17:50:15] [INFO]   Fetching GBPUSD...
-[2026-07-29 17:50:17] [INFO]   Fetching XAUUSD...
-[2026-07-29 17:50:18] [INFO]   Fetching USDJPY...
-[2026-07-29 17:50:20] [INFO] 
-Signals found: 1
-[2026-07-29 17:50:20] [INFO] 
-  ▶ S2_mean_rev     XAUUSD   SELL @ 4099.79980
-[2026-07-29 17:50:20] [INFO]     SL:700p | TP1:2472p | TP2:5183p | TP3:5644p | RR:3.5:1 | Conf:75%
-[2026-07-29 17:50:20] [INFO]     RSI 84 | BB 96%
+[2026-07-29 19:02:34] [INFO] No open positions to check.
+[2026-07-29 19:02:34] [INFO] SCAN MODE
+[2026-07-29 19:02:34] [INFO] ──────────────────────────────────────────────────
+[2026-07-29 19:02:34] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-07-29 19:02:34] [INFO]   Fetching EURUSD...
+[2026-07-29 19:02:35] [INFO]   Fetching GBPUSD...
+[2026-07-29 19:02:36] [INFO]   Fetching XAUUSD...
+[2026-07-29 19:02:38] [INFO]   Skipping duplicate XAUUSD SELL (S2_mean_rev) — already signalled in last 4h
+[2026-07-29 19:02:38] [INFO]   Fetching USDJPY...
+[2026-07-29 19:02:39] [INFO] 
+Signals found: 0
+[2026-07-29 19:02:39] [INFO] No signals this scan — market conditions not met
