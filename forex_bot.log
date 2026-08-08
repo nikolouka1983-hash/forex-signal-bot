@@ -1,9 +1,14 @@
-[2026-08-08 06:29:01] [INFO] No open positions to check.
-[2026-08-08 06:29:01] [INFO] SCAN MODE
-[2026-08-08 06:29:01] [INFO] ──────────────────────────────────────────────────
-[2026-08-08 06:29:01] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-08-08 06:29:01] [INFO]   Fetching USDJPY...
-[2026-08-08 06:29:02] [INFO]   Fetching XAUUSD...
-[2026-08-08 06:29:04] [INFO] 
-Signals found: 0
-[2026-08-08 06:29:04] [INFO] No signals this scan — market conditions not met
+[2026-08-08 07:31:15] [INFO] No open positions to check.
+[2026-08-08 07:31:16] [INFO] SCAN MODE
+[2026-08-08 07:31:16] [INFO] ──────────────────────────────────────────────────
+[2026-08-08 07:31:16] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-08-08 07:31:16] [INFO]   Fetching EURUSD...
+[2026-08-08 07:31:17] [INFO]   Fetching GBPUSD...
+[2026-08-08 07:31:19] [INFO]   Fetching XAUUSD...
+[2026-08-08 07:31:20] [INFO]   Fetching EURJPY...
+[2026-08-08 07:31:21] [INFO] 
+Signals found: 1
+[2026-08-08 07:31:21] [INFO] 
+  ▶ S2_mean_rev     EURJPY   SELL @ 182.37801
+[2026-08-08 07:31:21] [INFO]     SL:12p | TP1:19p | TP2:45p | TP3:50p | RR:1.6:1 | Conf:70%
+[2026-08-08 07:31:21] [INFO]     RSI 77 | BB 86%
