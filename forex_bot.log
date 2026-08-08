@@ -1,14 +1,12 @@
-[2026-08-08 11:48:57] [INFO] No open positions to check.
-[2026-08-08 11:48:58] [INFO] SCAN MODE
-[2026-08-08 11:48:58] [INFO] ──────────────────────────────────────────────────
-[2026-08-08 11:48:58] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
-[2026-08-08 11:48:58] [INFO]   Fetching EURUSD...
-[2026-08-08 11:48:59] [INFO]   Fetching GBPUSD...
-[2026-08-08 11:49:00] [INFO]   Fetching XAUUSD...
-[2026-08-08 11:49:02] [INFO]   Fetching EURJPY...
-[2026-08-08 11:49:03] [INFO] 
-Signals found: 1
-[2026-08-08 11:49:03] [INFO] 
-  ▶ S2_mean_rev     EURJPY   SELL @ 182.37801
-[2026-08-08 11:49:03] [INFO]     SL:12p | TP1:19p | TP2:45p | TP3:50p | RR:1.6:1 | Conf:70%
-[2026-08-08 11:49:03] [INFO]     RSI 77 | BB 86%
+[2026-08-08 12:25:48] [INFO] No open positions to check.
+[2026-08-08 12:25:48] [INFO] SCAN MODE
+[2026-08-08 12:25:48] [INFO] ──────────────────────────────────────────────────
+[2026-08-08 12:25:48] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-08-08 12:25:48] [INFO]   Fetching EURUSD...
+[2026-08-08 12:25:50] [INFO]   Fetching GBPUSD...
+[2026-08-08 12:25:51] [INFO]   Fetching XAUUSD...
+[2026-08-08 12:25:52] [INFO]   Fetching EURJPY...
+[2026-08-08 12:25:54] [INFO]   Skipping duplicate EURJPY SELL (S2_mean_rev) — already signalled in last 4h
+[2026-08-08 12:25:54] [INFO] 
+Signals found: 0
+[2026-08-08 12:25:54] [INFO] No signals this scan — market conditions not met
