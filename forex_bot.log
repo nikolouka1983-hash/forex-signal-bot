@@ -1,11 +1,18 @@
-[2026-08-12 19:52:36] [INFO] No open positions to check.
-[2026-08-12 19:52:36] [INFO] SCAN MODE
-[2026-08-12 19:52:36] [INFO] ──────────────────────────────────────────────────
-[2026-08-12 19:52:36] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-08-12 19:52:36] [INFO]   Fetching EURUSD...
-[2026-08-12 19:52:37] [INFO]   Fetching GBPUSD...
-[2026-08-12 19:52:38] [INFO]   Fetching XAUUSD...
-[2026-08-12 19:52:39] [INFO]   Fetching USDJPY...
-[2026-08-12 19:52:41] [INFO] 
-Signals found: 0
-[2026-08-12 19:52:41] [INFO] No signals this scan — market conditions not met
+[2026-08-12 20:53:53] [INFO] No open positions to check.
+[2026-08-12 20:53:54] [INFO] SCAN MODE
+[2026-08-12 20:53:54] [INFO] ──────────────────────────────────────────────────
+[2026-08-12 20:53:54] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-08-12 20:53:54] [INFO]   Fetching EURUSD...
+[2026-08-12 20:53:55] [INFO]   Fetching GBPUSD...
+[2026-08-12 20:53:56] [INFO]   Fetching XAUUSD...
+[2026-08-12 20:53:57] [INFO]   Fetching USDJPY...
+[2026-08-12 20:53:58] [INFO] 
+Signals found: 2
+[2026-08-12 20:53:58] [INFO] 
+  ▶ S5_momentum     XAUUSD   SELL @ 4467.60010
+[2026-08-12 20:53:58] [INFO]     SL:645p | TP1:1977p | TP2:3954p | TP3:5931p | RR:3.1:1 | Conf:73%
+[2026-08-12 20:53:58] [INFO]     H1 body 80% | EMA dist 398.5p
+[2026-08-12 20:53:58] [INFO] 
+  ▶ S5_momentum     USDJPY   SELL @ 159.41000
+[2026-08-12 20:53:58] [INFO]     SL:11p | TP1:22p | TP2:44p | TP3:66p | RR:2.1:1 | Conf:73%
+[2026-08-12 20:53:58] [INFO]     H1 body 73% | EMA dist 0.4p
