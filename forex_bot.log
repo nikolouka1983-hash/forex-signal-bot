@@ -1,9 +1,11 @@
-[2026-08-16 06:14:59] [INFO] No open positions to check.
-[2026-08-16 06:15:00] [INFO] SCAN MODE
-[2026-08-16 06:15:00] [INFO] ──────────────────────────────────────────────────
-[2026-08-16 06:15:00] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-08-16 06:15:00] [INFO]   Fetching USDJPY...
-[2026-08-16 06:15:01] [INFO]   Fetching XAUUSD...
-[2026-08-16 06:15:03] [INFO] 
+[2026-08-16 07:04:19] [INFO] No open positions to check.
+[2026-08-16 07:04:19] [INFO] SCAN MODE
+[2026-08-16 07:04:19] [INFO] ──────────────────────────────────────────────────
+[2026-08-16 07:04:19] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-08-16 07:04:19] [INFO]   Fetching EURUSD...
+[2026-08-16 07:04:21] [INFO]   Fetching GBPUSD...
+[2026-08-16 07:04:22] [INFO]   Fetching XAUUSD...
+[2026-08-16 07:04:23] [INFO]   Fetching EURJPY...
+[2026-08-16 07:04:24] [INFO] 
 Signals found: 0
-[2026-08-16 06:15:03] [INFO] No signals this scan — market conditions not met
+[2026-08-16 07:04:24] [INFO] No signals this scan — market conditions not met
