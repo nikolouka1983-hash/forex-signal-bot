@@ -1,12 +1,10 @@
-[2026-08-22 05:59:30] [INFO] No open positions to check.
-[2026-08-22 05:59:30] [INFO] SCAN MODE
-[2026-08-22 05:59:30] [INFO] ──────────────────────────────────────────────────
-[2026-08-22 05:59:30] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-08-22 05:59:30] [INFO]   Fetching USDJPY...
-[2026-08-22 05:59:32] [INFO]   Fetching XAUUSD...
-[2026-08-22 05:59:34] [INFO] 
-Signals found: 1
-[2026-08-22 05:59:34] [INFO] 
-  ▶ S2_mean_rev     XAUUSD   BUY  @ 4661.60010
-[2026-08-22 05:59:34] [INFO]     SL:10p | TP1:1486p | TP2:2704p | TP3:2982p | RR:150.6:1 | Conf:70%
-[2026-08-22 05:59:34] [INFO]     RSI 25 | BB -11%
+[2026-08-22 06:54:44] [INFO] No open positions to check.
+[2026-08-22 06:54:44] [INFO] SCAN MODE
+[2026-08-22 06:54:44] [INFO] ──────────────────────────────────────────────────
+[2026-08-22 06:54:44] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
+[2026-08-22 06:54:44] [INFO]   Fetching USDJPY...
+[2026-08-22 06:54:45] [INFO]   Fetching XAUUSD...
+[2026-08-22 06:54:47] [INFO]   Skipping duplicate XAUUSD BUY (S2_mean_rev) — already signalled in last 4h
+[2026-08-22 06:54:47] [INFO] 
+Signals found: 0
+[2026-08-22 06:54:47] [INFO] No signals this scan — market conditions not met
