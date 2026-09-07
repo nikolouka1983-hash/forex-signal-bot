@@ -1,9 +1,12 @@
-[2026-09-07 00:59:40] [INFO] No open positions to check.
-[2026-09-07 00:59:40] [INFO] SCAN MODE
-[2026-09-07 00:59:40] [INFO] ──────────────────────────────────────────────────
-[2026-09-07 00:59:40] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-09-07 00:59:40] [INFO]   Fetching USDJPY...
-[2026-09-07 00:59:42] [INFO]   Fetching XAUUSD...
-[2026-09-07 00:59:44] [INFO] 
-Signals found: 0
-[2026-09-07 00:59:44] [INFO] No signals this scan — market conditions not met
+[2026-09-07 05:59:32] [INFO] No open positions to check.
+[2026-09-07 05:59:32] [INFO] SCAN MODE
+[2026-09-07 05:59:32] [INFO] ──────────────────────────────────────────────────
+[2026-09-07 05:59:32] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
+[2026-09-07 05:59:32] [INFO]   Fetching USDJPY...
+[2026-09-07 05:59:33] [INFO]   Fetching XAUUSD...
+[2026-09-07 05:59:35] [INFO] 
+Signals found: 1
+[2026-09-07 05:59:35] [INFO] 
+  ▶ S4_asian        USDJPY   BUY  @ 155.79800
+[2026-09-07 05:59:35] [INFO]     SL:7p | TP1:22p | TP2:45p | TP3:68p | RR:2.9:1 | Conf:67%
+[2026-09-07 05:59:35] [INFO]     Range 46p | Mid 156.014
