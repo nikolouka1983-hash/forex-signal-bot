@@ -1,12 +1,14 @@
-[2026-09-07 05:59:32] [INFO] No open positions to check.
-[2026-09-07 05:59:32] [INFO] SCAN MODE
-[2026-09-07 05:59:32] [INFO] ──────────────────────────────────────────────────
-[2026-09-07 05:59:32] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-09-07 05:59:32] [INFO]   Fetching USDJPY...
-[2026-09-07 05:59:33] [INFO]   Fetching XAUUSD...
-[2026-09-07 05:59:35] [INFO] 
+[2026-09-07 12:19:56] [INFO] No open positions to check.
+[2026-09-07 12:19:56] [INFO] SCAN MODE
+[2026-09-07 12:19:56] [INFO] ──────────────────────────────────────────────────
+[2026-09-07 12:19:56] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-09-07 12:19:56] [INFO]   Fetching EURUSD...
+[2026-09-07 12:19:57] [INFO]   Fetching GBPUSD...
+[2026-09-07 12:19:58] [INFO]   Fetching XAUUSD...
+[2026-09-07 12:19:59] [INFO]   Fetching EURJPY...
+[2026-09-07 12:20:00] [INFO] 
 Signals found: 1
-[2026-09-07 05:59:35] [INFO] 
-  ▶ S4_asian        USDJPY   BUY  @ 155.79800
-[2026-09-07 05:59:35] [INFO]     SL:7p | TP1:22p | TP2:45p | TP3:68p | RR:2.9:1 | Conf:67%
-[2026-09-07 05:59:35] [INFO]     Range 46p | Mid 156.014
+[2026-09-07 12:20:00] [INFO] 
+  ▶ S5_momentum     XAUUSD   BUY  @ 4476.60010
+[2026-09-07 12:20:00] [INFO]     SL:651p | TP1:2756p | TP2:5511p | TP3:8267p | RR:4.2:1 | Conf:73%
+[2026-09-07 12:20:00] [INFO]     H1 body 67% | EMA dist 175.4p
