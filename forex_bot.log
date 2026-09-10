@@ -1,10 +1,11 @@
-[2026-09-10 04:38:02] [INFO] No open positions to check.
-[2026-09-10 04:38:02] [INFO] SCAN MODE
-[2026-09-10 04:38:02] [INFO] ──────────────────────────────────────────────────
-[2026-09-10 04:38:02] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-09-10 04:38:02] [INFO]   Fetching USDJPY...
-[2026-09-10 04:38:04] [WARN] Price fetch failed for USDJPY H1: Expecting value: line 1 column 1 (char 0)
-[2026-09-10 04:38:04] [INFO]   Fetching XAUUSD...
-[2026-09-10 04:38:05] [INFO] 
+[2026-09-10 09:11:39] [INFO] No open positions to check.
+[2026-09-10 09:11:40] [INFO] SCAN MODE
+[2026-09-10 09:11:40] [INFO] ──────────────────────────────────────────────────
+[2026-09-10 09:11:40] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-09-10 09:11:40] [INFO]   Fetching EURUSD...
+[2026-09-10 09:11:41] [INFO]   Fetching GBPUSD...
+[2026-09-10 09:11:42] [INFO]   Fetching XAUUSD...
+[2026-09-10 09:11:43] [INFO]   Fetching EURJPY...
+[2026-09-10 09:11:44] [INFO] 
 Signals found: 0
-[2026-09-10 04:38:05] [INFO] No signals this scan — market conditions not met
+[2026-09-10 09:11:44] [INFO] No signals this scan — market conditions not met
