@@ -1,14 +1,7 @@
-[2026-09-14 20:36:54] [INFO] No open positions to check.
-[2026-09-14 20:36:54] [INFO] SCAN MODE
-[2026-09-14 20:36:54] [INFO] ──────────────────────────────────────────────────
-[2026-09-14 20:36:54] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-09-14 20:36:54] [INFO]   Fetching EURUSD...
-[2026-09-14 20:36:55] [INFO]   Fetching GBPUSD...
-[2026-09-14 20:36:56] [INFO]   Fetching XAUUSD...
-[2026-09-14 20:36:58] [INFO]   Fetching USDJPY...
-[2026-09-14 20:36:59] [INFO] 
-Signals found: 1
-[2026-09-14 20:36:59] [INFO] 
-  ▶ S5_momentum     USDJPY   BUY  @ 154.40900
-[2026-09-14 20:36:59] [INFO]     SL:9p | TP1:24p | TP2:47p | TP3:71p | RR:2.5:1 | Conf:73%
-[2026-09-14 20:36:59] [INFO]     H1 body 81% | EMA dist 3.7p
+[2026-09-14 23:29:05] [INFO] No open positions to check.
+[2026-09-14 23:29:05] [INFO] SCAN MODE
+[2026-09-14 23:29:05] [INFO] ──────────────────────────────────────────────────
+[2026-09-14 23:29:05] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-09-14 23:29:05] [INFO] 
+Signals found: 0
+[2026-09-14 23:29:05] [INFO] No signals this scan — market conditions not met
