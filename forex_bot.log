@@ -1,7 +1,13 @@
-[2026-09-14 23:29:05] [INFO] No open positions to check.
-[2026-09-14 23:29:05] [INFO] SCAN MODE
-[2026-09-14 23:29:05] [INFO] ──────────────────────────────────────────────────
-[2026-09-14 23:29:05] [INFO] Dead zone (22:00-00:00 UTC) — paused
-[2026-09-14 23:29:05] [INFO] 
-Signals found: 0
-[2026-09-14 23:29:05] [INFO] No signals this scan — market conditions not met
+[2026-09-15 01:51:32] [INFO] No open positions to check.
+[2026-09-15 01:51:32] [INFO] SCAN MODE
+[2026-09-15 01:51:32] [INFO] ──────────────────────────────────────────────────
+[2026-09-15 01:51:32] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
+[2026-09-15 01:51:32] [INFO]   Fetching USDJPY...
+[2026-09-15 01:51:34] [INFO]   Skipping duplicate USDJPY SELL (S4_asian) — already signalled in last 4h
+[2026-09-15 01:51:34] [INFO]   Fetching XAUUSD...
+[2026-09-15 01:51:35] [INFO] 
+Signals found: 1
+[2026-09-15 01:51:35] [INFO] 
+  ▶ S2_mean_rev     USDJPY   SELL @ 154.75600
+[2026-09-15 01:51:35] [INFO]     SL:10p | TP1:27p | TP2:59p | TP3:64p | RR:2.6:1 | Conf:75%
+[2026-09-15 01:51:35] [INFO]     RSI 87 | BB 91%
