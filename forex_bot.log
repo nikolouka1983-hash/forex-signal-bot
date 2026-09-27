@@ -1,14 +1,12 @@
-[2026-09-27 17:16:55] [INFO] No open positions to check.
-[2026-09-27 17:16:55] [INFO] SCAN MODE
-[2026-09-27 17:16:55] [INFO] ──────────────────────────────────────────────────
-[2026-09-27 17:16:55] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-09-27 17:16:55] [INFO]   Fetching EURUSD...
-[2026-09-27 17:16:56] [INFO]   Fetching GBPUSD...
-[2026-09-27 17:16:58] [INFO]   Fetching XAUUSD...
-[2026-09-27 17:16:59] [INFO]   Fetching USDJPY...
-[2026-09-27 17:17:00] [INFO] 
-Signals found: 1
-[2026-09-27 17:17:00] [INFO] 
-  ▶ S5_momentum     XAUUSD   SELL @ 4321.20020
-[2026-09-27 17:17:00] [INFO]     SL:512p | TP1:1561p | TP2:3123p | TP3:4684p | RR:3.0:1 | Conf:73%
-[2026-09-27 17:17:00] [INFO]     H1 body 70% | EMA dist 215.7p
+[2026-09-27 20:14:00] [INFO] No open positions to check.
+[2026-09-27 20:14:00] [INFO] SCAN MODE
+[2026-09-27 20:14:00] [INFO] ──────────────────────────────────────────────────
+[2026-09-27 20:14:00] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
+[2026-09-27 20:14:00] [INFO]   Fetching EURUSD...
+[2026-09-27 20:14:01] [INFO]   Fetching GBPUSD...
+[2026-09-27 20:14:03] [INFO]   Fetching XAUUSD...
+[2026-09-27 20:14:05] [INFO]   Skipping duplicate XAUUSD SELL (S5_momentum) — already signalled in last 4h
+[2026-09-27 20:14:05] [INFO]   Fetching USDJPY...
+[2026-09-27 20:14:06] [INFO] 
+Signals found: 0
+[2026-09-27 20:14:06] [INFO] No signals this scan — market conditions not met
