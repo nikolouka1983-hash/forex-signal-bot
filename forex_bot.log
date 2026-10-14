@@ -1,22 +1,7 @@
-[2026-10-14 18:58:52] [INFO] No open positions to check.
-[2026-10-14 18:58:53] [INFO] SCAN MODE
-[2026-10-14 18:58:53] [INFO] ──────────────────────────────────────────────────
-[2026-10-14 18:58:53] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-10-14 18:58:53] [INFO]   Fetching EURUSD...
-[2026-10-14 18:58:54] [INFO]   Fetching GBPUSD...
-[2026-10-14 18:58:55] [INFO]   Fetching XAUUSD...
-[2026-10-14 18:58:57] [INFO]   Fetching USDJPY...
-[2026-10-14 18:58:58] [INFO] 
-Signals found: 3
-[2026-10-14 18:58:58] [INFO] 
-  ▶ S2_mean_rev     EURUSD   SELL @ 1.11570
-[2026-10-14 18:58:58] [INFO]     SL:7p | TP1:22p | TP2:48p | TP3:50p | RR:3.2:1 | Conf:75%
-[2026-10-14 18:58:58] [INFO]     RSI 80 | BB 92%
-[2026-10-14 18:58:58] [INFO] 
-  ▶ S2_mean_rev     USDJPY   BUY  @ 158.17300
-[2026-10-14 18:58:58] [INFO]     SL:11p | TP1:44p | TP2:93p | TP3:100p | RR:4.0:1 | Conf:75%
-[2026-10-14 18:58:58] [INFO]     RSI 20 | BB 5%
-[2026-10-14 18:58:58] [INFO] 
-  ▶ S5_momentum     GBPUSD   BUY  @ 1.31820
-[2026-10-14 18:58:58] [INFO]     SL:8p | TP1:18p | TP2:35p | TP3:53p | RR:2.2:1 | Conf:73%
-[2026-10-14 18:58:58] [INFO]     H1 body 76% | EMA dist 4.3p
+[2026-10-14 22:13:43] [INFO] No open positions to check.
+[2026-10-14 22:13:43] [INFO] SCAN MODE
+[2026-10-14 22:13:43] [INFO] ──────────────────────────────────────────────────
+[2026-10-14 22:13:43] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-10-14 22:13:43] [INFO] 
+Signals found: 0
+[2026-10-14 22:13:43] [INFO] No signals this scan — market conditions not met
