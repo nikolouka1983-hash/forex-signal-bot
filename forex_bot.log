@@ -1,14 +1,7 @@
-[2026-10-17 21:43:55] [INFO] No open positions to check.
-[2026-10-17 21:43:55] [INFO] SCAN MODE
-[2026-10-17 21:43:55] [INFO] ──────────────────────────────────────────────────
-[2026-10-17 21:43:55] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-10-17 21:43:55] [INFO]   Fetching EURUSD...
-[2026-10-17 21:43:56] [INFO]   Fetching GBPUSD...
-[2026-10-17 21:43:58] [INFO]   Fetching XAUUSD...
-[2026-10-17 21:43:59] [INFO]   Fetching USDJPY...
-[2026-10-17 21:44:01] [INFO] 
-Signals found: 1
-[2026-10-17 21:44:01] [INFO] 
-  ▶ S5_momentum     XAUUSD   BUY  @ 4186.70020
-[2026-10-17 21:44:01] [INFO]     SL:913p | TP1:1767p | TP2:3534p | TP3:5301p | RR:1.9:1 | Conf:73%
-[2026-10-17 21:44:01] [INFO]     H1 body 66% | EMA dist 155.1p
+[2026-10-17 23:30:42] [INFO] No open positions to check.
+[2026-10-17 23:30:42] [INFO] SCAN MODE
+[2026-10-17 23:30:42] [INFO] ──────────────────────────────────────────────────
+[2026-10-17 23:30:42] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-10-17 23:30:42] [INFO] 
+Signals found: 0
+[2026-10-17 23:30:42] [INFO] No signals this scan — market conditions not met
