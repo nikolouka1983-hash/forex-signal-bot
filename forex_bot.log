@@ -1,14 +1,7 @@
-[2026-10-20 19:25:29] [INFO] No open positions to check.
-[2026-10-20 19:25:29] [INFO] SCAN MODE
-[2026-10-20 19:25:29] [INFO] ──────────────────────────────────────────────────
-[2026-10-20 19:25:29] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-10-20 19:25:29] [INFO]   Fetching EURUSD...
-[2026-10-20 19:25:31] [INFO]   Fetching GBPUSD...
-[2026-10-20 19:25:32] [INFO]   Fetching XAUUSD...
-[2026-10-20 19:25:33] [INFO]   Fetching USDJPY...
-[2026-10-20 19:25:35] [INFO] 
-Signals found: 1
-[2026-10-20 19:25:35] [INFO] 
-  ▶ S5_momentum     GBPUSD   SELL @ 1.33799
-[2026-10-20 19:25:35] [INFO]     SL:7p | TP1:14p | TP2:29p | TP3:43p | RR:2.0:1 | Conf:73%
-[2026-10-20 19:25:35] [INFO]     H1 body 83% | EMA dist 2.3p
+[2026-10-20 22:33:42] [INFO] No open positions to check.
+[2026-10-20 22:33:42] [INFO] SCAN MODE
+[2026-10-20 22:33:42] [INFO] ──────────────────────────────────────────────────
+[2026-10-20 22:33:42] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-10-20 22:33:42] [INFO] 
+Signals found: 0
+[2026-10-20 22:33:42] [INFO] No signals this scan — market conditions not met
