@@ -1,7 +1,9 @@
-[2026-10-24 23:23:38] [INFO] No open positions to check.
-[2026-10-24 23:23:39] [INFO] SCAN MODE
-[2026-10-24 23:23:39] [INFO] ──────────────────────────────────────────────────
-[2026-10-24 23:23:39] [INFO] Dead zone (22:00-00:00 UTC) — paused
-[2026-10-24 23:23:39] [INFO] 
+[2026-10-25 01:29:44] [INFO] No open positions to check.
+[2026-10-25 01:29:45] [INFO] SCAN MODE
+[2026-10-25 01:29:45] [INFO] ──────────────────────────────────────────────────
+[2026-10-25 01:29:45] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
+[2026-10-25 01:29:45] [INFO]   Fetching USDJPY...
+[2026-10-25 01:29:46] [INFO]   Fetching XAUUSD...
+[2026-10-25 01:29:47] [INFO] 
 Signals found: 0
-[2026-10-24 23:23:39] [INFO] No signals this scan — market conditions not met
+[2026-10-25 01:29:47] [INFO] No signals this scan — market conditions not met
