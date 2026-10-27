@@ -1,9 +1,14 @@
-[2026-10-27 04:40:08] [INFO] No open positions to check.
-[2026-10-27 04:40:08] [INFO] SCAN MODE
-[2026-10-27 04:40:08] [INFO] ──────────────────────────────────────────────────
-[2026-10-27 04:40:08] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-10-27 04:40:08] [INFO]   Fetching USDJPY...
-[2026-10-27 04:40:09] [INFO]   Fetching XAUUSD...
-[2026-10-27 04:40:10] [INFO] 
-Signals found: 0
-[2026-10-27 04:40:10] [INFO] No signals this scan — market conditions not met
+[2026-10-27 10:03:52] [INFO] No open positions to check.
+[2026-10-27 10:03:52] [INFO] SCAN MODE
+[2026-10-27 10:03:52] [INFO] ──────────────────────────────────────────────────
+[2026-10-27 10:03:52] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-10-27 10:03:52] [INFO]   Fetching EURUSD...
+[2026-10-27 10:03:54] [INFO]   Fetching GBPUSD...
+[2026-10-27 10:03:55] [INFO]   Fetching XAUUSD...
+[2026-10-27 10:03:56] [INFO]   Fetching EURJPY...
+[2026-10-27 10:03:58] [INFO] 
+Signals found: 1
+[2026-10-27 10:03:58] [INFO] 
+  ▶ S2_mean_rev     EURUSD   BUY  @ 1.11445
+[2026-10-27 10:03:58] [INFO]     SL:9p | TP1:14p | TP2:34p | TP3:37p | RR:1.5:1 | Conf:70%
+[2026-10-27 10:03:58] [INFO]     RSI 25 | BB 16%
