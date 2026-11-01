@@ -1,9 +1,15 @@
-[2026-11-01 06:41:43] [INFO] No open positions to check.
-[2026-11-01 06:41:43] [INFO] SCAN MODE
-[2026-11-01 06:41:43] [INFO] ──────────────────────────────────────────────────
-[2026-11-01 06:41:43] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-11-01 06:41:43] [INFO]   Fetching USDJPY...
-[2026-11-01 06:41:44] [INFO]   Fetching XAUUSD...
-[2026-11-01 06:41:46] [INFO] 
-Signals found: 0
-[2026-11-01 06:41:46] [INFO] No signals this scan — market conditions not met
+[2026-11-01 13:51:16] [INFO] No open positions to check.
+[2026-11-01 13:51:16] [INFO] SCAN MODE
+[2026-11-01 13:51:16] [INFO] ──────────────────────────────────────────────────
+[2026-11-01 13:51:16] [INFO] Session: OVERLAP | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY, EURJPY
+[2026-11-01 13:51:16] [INFO]   Fetching EURUSD...
+[2026-11-01 13:51:17] [INFO]   Fetching GBPUSD...
+[2026-11-01 13:51:19] [INFO]   Fetching XAUUSD...
+[2026-11-01 13:51:21] [INFO]   Fetching USDJPY...
+[2026-11-01 13:51:22] [INFO]   Fetching EURJPY...
+[2026-11-01 13:51:24] [INFO] 
+Signals found: 1
+[2026-11-01 13:51:24] [INFO] 
+  ▶ S5_momentum     EURUSD   SELL @ 1.11657
+[2026-11-01 13:51:24] [INFO]     SL:7p | TP1:15p | TP2:29p | TP3:44p | RR:2.2:1 | Conf:73%
+[2026-11-01 13:51:24] [INFO]     H1 body 89% | EMA dist 1.2p
