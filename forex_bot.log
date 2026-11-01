@@ -1,12 +1,9 @@
-[2026-10-31 21:20:29] [INFO] No open positions to check.
-[2026-10-31 21:20:29] [INFO] SCAN MODE
-[2026-10-31 21:20:29] [INFO] ──────────────────────────────────────────────────
-[2026-10-31 21:20:29] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-10-31 21:20:29] [INFO]   Fetching EURUSD...
-[2026-10-31 21:20:31] [INFO]   Skipping duplicate EURUSD SELL (S5_momentum) — already signalled in last 4h
-[2026-10-31 21:20:31] [INFO]   Fetching GBPUSD...
-[2026-10-31 21:20:32] [INFO]   Fetching XAUUSD...
-[2026-10-31 21:20:33] [INFO]   Fetching USDJPY...
-[2026-10-31 21:20:34] [INFO] 
+[2026-11-01 00:20:47] [INFO] No open positions to check.
+[2026-11-01 00:20:47] [INFO] SCAN MODE
+[2026-11-01 00:20:47] [INFO] ──────────────────────────────────────────────────
+[2026-11-01 00:20:47] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
+[2026-11-01 00:20:47] [INFO]   Fetching USDJPY...
+[2026-11-01 00:20:49] [INFO]   Fetching XAUUSD...
+[2026-11-01 00:20:50] [INFO] 
 Signals found: 0
-[2026-10-31 21:20:34] [INFO] No signals this scan — market conditions not met
+[2026-11-01 00:20:50] [INFO] No signals this scan — market conditions not met
