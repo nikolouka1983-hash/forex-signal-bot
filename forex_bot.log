@@ -1,12 +1,11 @@
-[2026-11-05 02:53:28] [INFO] No open positions to check.
-[2026-11-05 02:53:28] [INFO] SCAN MODE
-[2026-11-05 02:53:28] [INFO] ──────────────────────────────────────────────────
-[2026-11-05 02:53:28] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-11-05 02:53:28] [INFO]   Fetching USDJPY...
-[2026-11-05 02:53:30] [INFO]   Fetching XAUUSD...
-[2026-11-05 02:53:31] [INFO] 
-Signals found: 1
-[2026-11-05 02:53:31] [INFO] 
-  ▶ S2_mean_rev     USDJPY   BUY  @ 157.88100
-[2026-11-05 02:53:31] [INFO]     SL:15p | TP1:30p | TP2:68p | TP3:74p | RR:1.9:1 | Conf:75%
-[2026-11-05 02:53:31] [INFO]     RSI 14 | BB 12%
+[2026-11-05 10:39:30] [INFO] No open positions to check.
+[2026-11-05 10:39:30] [INFO] SCAN MODE
+[2026-11-05 10:39:30] [INFO] ──────────────────────────────────────────────────
+[2026-11-05 10:39:30] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-11-05 10:39:30] [INFO]   Fetching EURUSD...
+[2026-11-05 10:39:31] [INFO]   Fetching GBPUSD...
+[2026-11-05 10:39:33] [INFO]   Fetching XAUUSD...
+[2026-11-05 10:39:34] [INFO]   Fetching EURJPY...
+[2026-11-05 10:39:35] [INFO] 
+Signals found: 0
+[2026-11-05 10:39:35] [INFO] No signals this scan — market conditions not met
