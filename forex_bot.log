@@ -1,14 +1,7 @@
-[2026-11-17 17:03:31] [INFO] No open positions to check.
-[2026-11-17 17:03:31] [INFO] SCAN MODE
-[2026-11-17 17:03:31] [INFO] ──────────────────────────────────────────────────
-[2026-11-17 17:03:31] [INFO] Session: NEW_YORK | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY
-[2026-11-17 17:03:31] [INFO]   Fetching EURUSD...
-[2026-11-17 17:03:32] [INFO]   Fetching GBPUSD...
-[2026-11-17 17:03:33] [INFO]   Fetching XAUUSD...
-[2026-11-17 17:03:35] [INFO]   Fetching USDJPY...
-[2026-11-17 17:03:36] [INFO] 
-Signals found: 1
-[2026-11-17 17:03:36] [INFO] 
-  ▶ S2_mean_rev     EURUSD   SELL @ 1.10181
-[2026-11-17 17:03:36] [INFO]     SL:10p | TP1:17p | TP2:40p | TP3:43p | RR:1.7:1 | Conf:75%
-[2026-11-17 17:03:36] [INFO]     RSI 87 | BB 85%
+[2026-11-17 23:49:53] [INFO] No open positions to check.
+[2026-11-17 23:49:53] [INFO] SCAN MODE
+[2026-11-17 23:49:53] [INFO] ──────────────────────────────────────────────────
+[2026-11-17 23:49:53] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-11-17 23:49:53] [INFO] 
+Signals found: 0
+[2026-11-17 23:49:53] [INFO] No signals this scan — market conditions not met
