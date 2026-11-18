@@ -1,12 +1,12 @@
-[2026-11-18 05:23:32] [INFO] No open positions to check.
-[2026-11-18 05:23:32] [INFO] SCAN MODE
-[2026-11-18 05:23:32] [INFO] ──────────────────────────────────────────────────
-[2026-11-18 05:23:32] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-11-18 05:23:32] [INFO]   Fetching USDJPY...
-[2026-11-18 05:23:33] [INFO]   Fetching XAUUSD...
-[2026-11-18 05:23:35] [INFO] 
-Signals found: 1
-[2026-11-18 05:23:35] [INFO] 
-  ▶ S2_mean_rev     XAUUSD   BUY  @ 3782.60010
-[2026-11-18 05:23:35] [INFO]     SL:1561p | TP1:6251p | TP2:10464p | TP3:10942p | RR:4.0:1 | Conf:75%
-[2026-11-18 05:23:35] [INFO]     RSI 13 | BB -24%
+[2026-11-18 14:28:23] [INFO] No open positions to check.
+[2026-11-18 14:28:23] [INFO] SCAN MODE
+[2026-11-18 14:28:23] [INFO] ──────────────────────────────────────────────────
+[2026-11-18 14:28:23] [INFO] Session: OVERLAP | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY, EURJPY
+[2026-11-18 14:28:23] [INFO]   Fetching EURUSD...
+[2026-11-18 14:28:25] [INFO]   Fetching GBPUSD...
+[2026-11-18 14:28:26] [INFO]   Fetching XAUUSD...
+[2026-11-18 14:28:28] [INFO]   Fetching USDJPY...
+[2026-11-18 14:28:29] [INFO]   Fetching EURJPY...
+[2026-11-18 14:28:32] [INFO] 
+Signals found: 0
+[2026-11-18 14:28:32] [INFO] No signals this scan — market conditions not met
