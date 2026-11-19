@@ -1,12 +1,11 @@
-[2026-11-19 03:41:14] [INFO] No open positions to check.
-[2026-11-19 03:41:15] [INFO] SCAN MODE
-[2026-11-19 03:41:15] [INFO] ──────────────────────────────────────────────────
-[2026-11-19 03:41:15] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-11-19 03:41:15] [INFO]   Fetching USDJPY...
-[2026-11-19 03:41:16] [INFO]   Fetching XAUUSD...
-[2026-11-19 03:41:17] [INFO] 
-Signals found: 1
-[2026-11-19 03:41:17] [INFO] 
-  ▶ S4_asian        USDJPY   SELL @ 159.53600
-[2026-11-19 03:41:17] [INFO]     SL:5p | TP1:13p | TP2:27p | TP3:41p | RR:2.5:1 | Conf:67%
-[2026-11-19 03:41:17] [INFO]     Range 29p | Mid 159.409
+[2026-11-19 12:14:08] [INFO] No open positions to check.
+[2026-11-19 12:14:08] [INFO] SCAN MODE
+[2026-11-19 12:14:08] [INFO] ──────────────────────────────────────────────────
+[2026-11-19 12:14:08] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-11-19 12:14:08] [INFO]   Fetching EURUSD...
+[2026-11-19 12:14:09] [INFO]   Fetching GBPUSD...
+[2026-11-19 12:14:11] [INFO]   Fetching XAUUSD...
+[2026-11-19 12:14:12] [INFO]   Fetching EURJPY...
+[2026-11-19 12:14:13] [INFO] 
+Signals found: 0
+[2026-11-19 12:14:13] [INFO] No signals this scan — market conditions not met
