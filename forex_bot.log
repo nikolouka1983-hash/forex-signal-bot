@@ -1,9 +1,18 @@
-[2026-11-20 01:56:01] [INFO] No open positions to check.
-[2026-11-20 01:56:01] [INFO] SCAN MODE
-[2026-11-20 01:56:01] [INFO] ──────────────────────────────────────────────────
-[2026-11-20 01:56:01] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-11-20 01:56:01] [INFO]   Fetching USDJPY...
-[2026-11-20 01:56:03] [INFO]   Fetching XAUUSD...
-[2026-11-20 01:56:04] [INFO] 
-Signals found: 0
-[2026-11-20 01:56:04] [INFO] No signals this scan — market conditions not met
+[2026-11-20 09:55:15] [INFO] No open positions to check.
+[2026-11-20 09:55:15] [INFO] SCAN MODE
+[2026-11-20 09:55:15] [INFO] ──────────────────────────────────────────────────
+[2026-11-20 09:55:15] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-11-20 09:55:15] [INFO]   Fetching EURUSD...
+[2026-11-20 09:55:16] [INFO]   Fetching GBPUSD...
+[2026-11-20 09:55:18] [INFO]   Fetching XAUUSD...
+[2026-11-20 09:55:19] [INFO]   Fetching EURJPY...
+[2026-11-20 09:55:20] [INFO] 
+Signals found: 2
+[2026-11-20 09:55:20] [INFO] 
+  ▶ S5_momentum     GBPUSD   BUY  @ 1.31094
+[2026-11-20 09:55:20] [INFO]     SL:6p | TP1:11p | TP2:22p | TP3:34p | RR:2.0:1 | Conf:73%
+[2026-11-20 09:55:20] [INFO]     H1 body 81% | EMA dist 0.5p
+[2026-11-20 09:55:20] [INFO] 
+  ▶ S2_mean_rev     EURJPY   BUY  @ 174.20300
+[2026-11-20 09:55:20] [INFO]     SL:10p | TP1:43p | TP2:88p | TP3:96p | RR:4.1:1 | Conf:70%
+[2026-11-20 09:55:20] [INFO]     RSI 25 | BB 3%
