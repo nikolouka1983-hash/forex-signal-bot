@@ -1,9 +1,18 @@
-[2026-11-23 02:31:21] [INFO] No open positions to check.
-[2026-11-23 02:31:21] [INFO] SCAN MODE
-[2026-11-23 02:31:21] [INFO] ──────────────────────────────────────────────────
-[2026-11-23 02:31:21] [INFO] Session: ASIAN | Pairs: USDJPY, XAUUSD
-[2026-11-23 02:31:21] [INFO]   Fetching USDJPY...
-[2026-11-23 02:31:23] [INFO]   Fetching XAUUSD...
-[2026-11-23 02:31:24] [INFO] 
-Signals found: 0
-[2026-11-23 02:31:24] [INFO] No signals this scan — market conditions not met
+[2026-11-23 11:16:02] [INFO] No open positions to check.
+[2026-11-23 11:16:02] [INFO] SCAN MODE
+[2026-11-23 11:16:02] [INFO] ──────────────────────────────────────────────────
+[2026-11-23 11:16:02] [INFO] Session: LONDON | Pairs: EURUSD, GBPUSD, XAUUSD, EURJPY
+[2026-11-23 11:16:02] [INFO]   Fetching EURUSD...
+[2026-11-23 11:16:03] [INFO]   Fetching GBPUSD...
+[2026-11-23 11:16:05] [INFO]   Fetching XAUUSD...
+[2026-11-23 11:16:06] [INFO]   Fetching EURJPY...
+[2026-11-23 11:16:08] [INFO] 
+Signals found: 2
+[2026-11-23 11:16:08] [INFO] 
+  ▶ S2_mean_rev     EURUSD   BUY  @ 1.09673
+[2026-11-23 11:16:08] [INFO]     SL:10p | TP1:21p | TP2:48p | TP3:51p | RR:2.1:1 | Conf:75%
+[2026-11-23 11:16:08] [INFO]     RSI 17 | BB 13%
+[2026-11-23 11:16:08] [INFO] 
+  ▶ S5_momentum     XAUUSD   SELL @ 3621.30005
+[2026-11-23 11:16:08] [INFO]     SL:1062p | TP1:2308p | TP2:4616p | TP3:6924p | RR:2.2:1 | Conf:73%
+[2026-11-23 11:16:08] [INFO]     H1 body 91% | EMA dist 451.7p
