@@ -1,12 +1,7 @@
-[2026-11-27 14:04:59] [INFO] No open positions to check.
-[2026-11-27 14:04:59] [INFO] SCAN MODE
-[2026-11-27 14:04:59] [INFO] ──────────────────────────────────────────────────
-[2026-11-27 14:04:59] [INFO] Session: OVERLAP | Pairs: EURUSD, GBPUSD, XAUUSD, USDJPY, EURJPY
-[2026-11-27 14:04:59] [INFO]   Fetching EURUSD...
-[2026-11-27 14:05:00] [INFO]   Fetching GBPUSD...
-[2026-11-27 14:05:02] [INFO]   Fetching XAUUSD...
-[2026-11-27 14:05:03] [INFO]   Fetching USDJPY...
-[2026-11-27 14:05:04] [INFO]   Fetching EURJPY...
-[2026-11-27 14:05:06] [INFO] 
+[2026-11-27 22:40:16] [INFO] No open positions to check.
+[2026-11-27 22:40:16] [INFO] SCAN MODE
+[2026-11-27 22:40:16] [INFO] ──────────────────────────────────────────────────
+[2026-11-27 22:40:16] [INFO] Dead zone (22:00-00:00 UTC) — paused
+[2026-11-27 22:40:16] [INFO] 
 Signals found: 0
-[2026-11-27 14:05:06] [INFO] No signals this scan — market conditions not met
+[2026-11-27 22:40:16] [INFO] No signals this scan — market conditions not met
